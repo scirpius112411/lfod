@@ -1,5 +1,4 @@
-Notice:This essay was written by Grok----An AI assistant from United States,and sum by AetherTech Team and a VIP from ShuaJiMi.
-
+Notice:This essay was written by Grok ---- an AI assistant,so it may contain some mistake.
 ✅ Universal iPad MDM + DEP Unlock Guide with LoveAssistant
 🎯 Objective
 	•	Flash the iPad with a compatible iPadOS version using LoveAssistant.
